@@ -355,3 +355,56 @@
 
  //:::::::::::::::::::::::::::::::::ex#9"functions":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 let magicians =["me" ,"tum","ye duniya"]
+ //:::::::::::::::::::::::::::::::::ex#9"functions":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+// function make_album(name ,title ,no_oftracks=null){
+
+// let album={
+//     name_of_artist:name,
+//     title_of_album: title,
+
+// }
+// if(no_oftracks!== null){
+//   album.numbers_of_songs=no_oftracks
+// }
+// return album;
+
+// }
+
+
+// let album1=make_album("atif aslam","yaad",12)
+// let album2=make_album("asim azhar","tu hai kaha","")
+
+// console.log(album1)
+// console.log(album2)
+
+
+
+ //:::::::::::::::::::::::::::::::::ex#9"functions":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+// let magicians =["me" ,"tum","ye duniya"]
+
+// function show_megicians(magicians){
+//   for (let i = 0; i < magicians.length; i++) {
+//     console.log(magicians[i])
+    
+//   }
+// }
+
+// show_megicians(magicians)
+
+
+ //:::::::::::::::::::::::::::::::::ex#9"functions_with_objects":::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+function cars(name,color,model,manufacture){
+  let details={
+    name_of_cars:name,
+    color_of_cars:color,
+    model_of_cars:model,
+    manufacture_of_cars:manufacture
+  }
+  return details
+}
+
+
+let car1 =cars("corolla","silver","2021","toyota")
+let car2  = cars("pajero","black","2002","miscubitshi")
+
+console.log(car1 , car2)
