@@ -1,7 +1,7 @@
 let number = document.querySelector(".num")
 let incrementa = document.querySelector(".max")
 let sub = document.querySelector(".min")
-asas
+asasas
 let count=0
 
 incrementa.addEventListener("click" ,function(){
