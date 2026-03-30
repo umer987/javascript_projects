@@ -3,7 +3,7 @@ let rows = 5
 // let str =""
 //     for (let k = 1; k < rows - i; k++) {
 //         str+=" "
-        xxxxxxxxx
+        xxxxxxxxxx
 //     }
 // for (let j = 0; j < i; j++) {
    
