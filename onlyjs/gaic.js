@@ -1,4 +1,4 @@
-sssssqqqwezasaazasssssaaaassssssaaaassadsssadsasdasdadsddsadsaddassaddsasadssdadsaadsaseewqeqwewqwqewqeqwweqweqweqadsadasdasdsaasddasadsadsdsadsasdadsdasdsaasdasdsadsaddsasaddsasadawqewqewqeewqasdsadasdsd
+sssssqqqwezasaazasssssaaaassssssaaaassadsssadsasdasdadsddsadsaddassaddsasadssdadsaadsaseewqeqwewqwqewqeqssssssssssssswweqweqweqadsadasdasdsaasddasadsadsdsadsasdadsdasdsaasdasdsadsaddsasaddsasadawqewqewqeewqasdsadasdsd
 // let message = "hello eric you are finding python toturials"
 // console.log(message)
 
@@ -25,7 +25,6 @@ sssssqqqwezasaazasssssaaaassssssaaaassadsssadsasdasdadsddsadsaddassaddsasadssdad
 // console.log("the orignal string " +author+ qoute)
 // let stripp = qoute.trim();
 // console.log("the modified string (without spaces) " + author +stripp)
-
 
 //:::::::::::::::::::::::::::::::::ex#4:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
