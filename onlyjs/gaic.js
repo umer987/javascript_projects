@@ -28,7 +28,7 @@ nznznznnznzkznnznjsnsnsjjsjbhzjznxnznzjbBnbababananannabanbsbsbsbsjbshshhhhhbb b
 
 //:::::::::::::::::::::::::::::::::ex#4:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-// let namess =["revo" ,"ap" ,"ka" ,"naam " , "he"]
+// let namess =["revo" ,"ap" ," ka" ,"naam " , "he"]
 
 // for (let index = 0; index < namess.length; index++) {
 //     console.log("hellow " +namess[index])
