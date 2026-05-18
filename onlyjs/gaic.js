@@ -1,4 +1,5 @@
-a// let message = "hello eric you are finding python toturials"
+as
+// let message = "hello eric you are finding python toturials"
 
 // console.log(message)
 
