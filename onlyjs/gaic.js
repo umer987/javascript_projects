@@ -1,4 +1,4 @@
-ghhhxxx   zszddsszxxxx
+ghhhxxx   zszddsszxxx
 // let message = "hello eric you are finding python toturials"
 
 // console.log(message)
