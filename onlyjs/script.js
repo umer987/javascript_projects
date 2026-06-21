@@ -1,4 +1,4 @@
-wq\k;
+wq\k;e
 // var a ="umer"
 // var b ="shakir"
 // console.log("my name is "+ `${a}`+" " +`${b}`)
