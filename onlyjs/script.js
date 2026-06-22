@@ -50,7 +50,6 @@ rl.question("Enter your name: ", function (name) {
 
 // let formate_change = "hello eric you are finding python toturials"
 // console.log("the orignal form: ",formate_change)
-// let upperlette=formate_change.toUpperCase
 
 
 
