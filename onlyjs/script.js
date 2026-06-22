@@ -48,7 +48,6 @@ rl.question("Enter your name: ", function (name) {
 
 
 
-// let formate_change = "hello eric you are finding python toturials"
 
 
 
