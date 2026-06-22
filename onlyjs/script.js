@@ -53,6 +53,5 @@ rl.question("Enter your name: ", function (name) {
 // let upperlette=formate_change.toUpperCase
 // let lower = formate_change.toLowerCase
 
-// console.log("the upperletter form: ",upperlette)
 
 
