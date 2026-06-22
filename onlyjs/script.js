@@ -41,6 +41,10 @@ const rl = readline.createInterface({
 });
 
 
+rl.question("Enter your name: ", function (name) {
+    console.log("Hello, " + name);
+    rl.close(); // Close input stream
+});
 
 
 
