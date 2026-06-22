@@ -55,6 +55,5 @@ rl.question("Enter your name: ", function (name) {
 
 // console.log("the upperletter form: ",upperlette)
 // console.log("the lower form: ", lower)
-// console.log("the titlecase form: ",formate_change.replace(/\b\w/g, char => char.toUpperCase()))
 
 
