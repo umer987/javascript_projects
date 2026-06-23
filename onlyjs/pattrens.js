@@ -8,7 +8,7 @@
 
 // for (let j = 0; j < i; j++) {j
    
-//     str+="* "
+//     str+="* 
 // }
 
 // console.log(st
