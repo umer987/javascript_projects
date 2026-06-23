@@ -4,7 +4,7 @@ let rows
 // let str =""
 //     for (let k = 1; k < rows - i; k++) {
 //         str+=" "
-j
+
 //    
 // for (let j = 0; j < i; j++) {j
    
