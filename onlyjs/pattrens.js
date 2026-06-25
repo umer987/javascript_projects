@@ -11,7 +11,7 @@
 //     str+="* 
 // }
 
-// console.lo
+// console.l
 
 
 
