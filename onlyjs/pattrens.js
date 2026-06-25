@@ -34,7 +34,7 @@ for (let w = 0; w < p; w++) {
 console.log(str,ob)
 
 
-}
+
 
 
 
