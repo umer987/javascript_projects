@@ -31,7 +31,7 @@ for (let w = 0; w < p; w++) {
 
 
 
-console.log(st
+console.log(s
 
 
 
