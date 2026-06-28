@@ -1,4 +1,8 @@
-import random
+   {
+                "question": "What is the capital of France?",
+                "options": ["A. London", "B. Paris", "C. Berlin", "D. Madrid"],
+                "answer": "B"
+            },import random
 import time
 self.questions = [
             {
