@@ -1,4 +1,8 @@
+import random
+import time
 
+class QuizGame:
+    def __init__(self):
 // var a ="umer"
 // var b ="shakir"
 // console.log("my name is "+ `${a}`+" " +`${b}`)
