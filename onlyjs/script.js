@@ -1,4 +1,8 @@
- {   { {]
+print("🎯 WELCOME TO THE QUIZ GAME!")
+        print("=" * 40)
+        print(f"Total Questions: {self.total_questions}")
+        print("Type A, B, C, or D to answer")
+        print("=" * 40) {   { {]
         self.score = 0
         self.total_questions = len(self.questions)
     
