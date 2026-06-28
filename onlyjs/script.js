@@ -1,4 +1,8 @@
- {   {
+ {   { {
+                "question": "What is the chemical symbol for water?",
+                "options": ["A. H2O", "B. CO2", "C. NaCl", "D. HCl"],
+                "answer": "A"
+            }
                 "question": "Who wrote 'Romeo and Juliet'?",
                 "options": ["A. Charles Dickens", "B. William Shakespeare", 
                            "C. Mark Twain", "D. Jane Austen"],
