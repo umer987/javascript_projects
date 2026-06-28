@@ -1,4 +1,6 @@
-print("🎯 WELCOME TO THE QUIZ GAME!")
+time.sleep(1)
+    
+    def ask_question(self, q_data, q_num):print("🎯 WELCOME TO THE QUIZ GAME!")
         print("=" * 40)
         print(f"Total Questions: {self.total_questions}")
         print("Type A, B, C, or D to answer")
