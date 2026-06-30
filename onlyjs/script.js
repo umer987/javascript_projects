@@ -1,4 +1,7 @@
-time.sleep(1)
+ if percentage >= 90:
+            print("🏆 Grade: A+ (Excellent!)")
+        elif percentage >= 80:
+            print("🌟 Grade: A (Great job!)")time.sleep(1)
         elif percentage >= 70:
             print("👍 Grade: B (Good work!)")
         elif percentage >= 60:
