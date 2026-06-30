@@ -6,7 +6,9 @@ time.sleep(1)
             self.score = 0
             self.shuffle_questions()
             self.display_welcome()
-
+    def run(self):
+        """Main game loop"""
+        playing = True
     def ask_question(self, q_data, q_num):print("🎯 WELCOME TO THE QUIZ GAME!")
         print("=" * 40)def main():esults()
             
