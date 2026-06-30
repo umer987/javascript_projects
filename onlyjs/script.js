@@ -11,7 +11,11 @@ time.sleep(1)
         playing = True
     def ask_question(self, q_data, q_num):print("🎯 WELCOME TO THE QUIZ GAME!")
         print("=" * 40)def main():esults()
-            
+                if choice in ['yes', 'y']:
+                return True
+            elif choice in ['no', 'n']:
+                return False
+            print("⚠️  Please enter 'yes' or 'no'.")
             # Ask to play again
             playing = self.play_again()
         
