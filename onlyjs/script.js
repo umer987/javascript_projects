@@ -1,7 +1,11 @@
 time.sleep(1)
     
     def ask_question(self, q_data, q_num):print("🎯 WELCOME TO THE QUIZ GAME!")
-        print("=" * 40)def main():
+        print("=" * 40)def main():esults()
+            
+            # Ask to play again
+            playing = self.play_again()
+        
     game = QuizGame()
     game.run()
 
