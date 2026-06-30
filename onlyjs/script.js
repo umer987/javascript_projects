@@ -2,7 +2,10 @@ time.sleep(1)
                 for i, question in enumerate(self.questions, 1):
                 self.ask_question(question, i)
                 time.sleep(0.5)
-            
+              while playing:
+            self.score = 0
+            self.shuffle_questions()
+            self.display_welcome()
 
     def ask_question(self, q_data, q_num):print("🎯 WELCOME TO THE QUIZ GAME!")
         print("=" * 40)def main():esults()
