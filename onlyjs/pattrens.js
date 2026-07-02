@@ -2,7 +2,7 @@
    let ob=1
     let str=""
 for (let q = 0; q < rows - p; q++) {
-    str+=" " 
+
    
 }
 
