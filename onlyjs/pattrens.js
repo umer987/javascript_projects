@@ -1,5 +1,4 @@
-
-   let ob=1
+l
     let str=""
 for (let q = 0; q < rows - p; q++) {
 
