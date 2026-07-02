@@ -1,6 +1,6 @@
 
 
-// for (let i = 1; i <= rows; i++) {
+
 // let str =""
 //     for (let k = 1; k < rows - i; k++) {
 //         str+=" "
