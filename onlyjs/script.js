@@ -9,7 +9,6 @@ if percentage >= 90:
         else:
             print("💪 Grade: D (Better luck next time!)")
                 for i, question in enumerate(self.questions, 1):  def play_again(self):
-        """Ask if user wants to play again"""
         while True:
             choice = input("\nPlay again? (yes/no): ").lower().strip()
                 self.ask_question(question, i)
