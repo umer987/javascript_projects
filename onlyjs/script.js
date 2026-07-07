@@ -1,6 +1,4 @@
-if percentage >= 90:
-  
-            choice = input("\nPlay again? (yes/no): ").lower().strip()
+
                 self.ask_question(question, i)
                 time.sleep(0.5)
               while playing:
