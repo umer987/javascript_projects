@@ -1,11 +1,6 @@
 if percentage >= 90:
             print("🏆 Grade: A+ (Excellent!)")
-        elif percentage >= 80:
-            print("🌟 Grade: A (Great job!)")time.sleep(1)
-        elif percentage >= 70:
-            print("👍 Grade: B (Good work!)")
-        elif percentage >= 60:
-            print("📖 Gr
+        elif per
                 for i, question in enumerate(self.questions, 1):  def play_again(self):
         while True:
             choice = input("\nPlay again? (yes/no): ").lower().strip()
