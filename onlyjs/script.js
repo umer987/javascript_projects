@@ -1,8 +1,5 @@
 if percentage >= 90:
-            print("🏆 Grade: A+ (Excellent!)")
-        elif per
-                for i, question in enumerate(self.questions, 1):  def play_again(self):
-        while True:
+  
             choice = input("\nPlay again? (yes/no): ").lower().strip()
                 self.ask_question(question, i)
                 time.sleep(0.5)
