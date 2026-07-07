@@ -1,8 +1,3 @@
-
-print(f"❌ Wrong Answers: {self.total_questions - self.score}")
-        percentage = (self.score / self.total_questions) * 100
-        print(f"📈 Score: {percentage:.1f}%")
-        
 if percentage >= 90:
             print("🏆 Grade: A+ (Excellent!)")
         elif percentage >= 80:
