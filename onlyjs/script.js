@@ -1,5 +1,4 @@
-          return True
-        else:
+
             print(f"❌ Wrong! The correct answer was {q_data['answer']}")
             return False
 def display_results(self):
