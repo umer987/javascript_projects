@@ -1,6 +1,4 @@
-
-                self.ask_question(question, i)
-                time.sleep(0.5)
+time.sleep(0.5)
               while playing:
             self.score = 0
             self.shuffle_questions()
