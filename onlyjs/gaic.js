@@ -14,10 +14,7 @@ function addtodo(e) {
     <div> 
         <div>
         <h1 className='text-center text-5xl'>USESTATE</h1>
-        <h1 className='text-center mt-3.5 '>This Is Count: `{count}` </h1>
-        <div className='flex flex-col gap-2.5 w-full h-full justify-center items-center '>
-   <button onClick={()=>setcount(count + 1)}  className='p-4 w-[150px] bg-amber-700 text-amber-50'>ADD</button>
-            <button onClick={()=>setcount(count - 1)}  className='p-4 w-[150px] bg-amber-700 text-amber-50'>MINUS</button>
+        <h1 className='text-center mt-3.5 '-[150px] bg-amber-700 text-amber-50'>MINUS</button>
  
                
         </div>
