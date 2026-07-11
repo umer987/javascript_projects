@@ -7,7 +7,6 @@ const [input ,setinput] = useState([])
 function addtodo(e) {
     e.preventDefault();
     const updated = [...input , todo]
-    setinput(updated)
     console.log(input)
 }
   return (
