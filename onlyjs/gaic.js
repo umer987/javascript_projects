@@ -1,5 +1,4 @@
 
-const [todo,settodo] = useState('')
 const [input ,setinput] = useState([])
 function addtodo(e) {
     e.preventDefault();
