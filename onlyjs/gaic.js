@@ -1,4 +1,54 @@
-ffffjjjjhhhhhnjjh
+import React, { useState } from 'react'
+
+function Usest() {
+const [count , setcount] = useState(0)
+const [todo,settodo] = useState('')
+const [input ,setinput] = useState([])
+function addtodo(e) {
+    e.preventDefault();
+    const updated = [...input , todo]
+    setinput(updated)
+    console.log(input)
+}
+  return (
+    <div> 
+        <div>
+        <h1 className='text-center text-5xl'>USESTATE</h1>
+        <h1 className='text-center mt-3.5 '>This Is Count: `{count}` </h1>
+        <div className='flex flex-col gap-2.5 w-full h-full justify-center items-center '>
+   <button onClick={()=>setcount(count + 1)}  className='p-4 w-[150px] bg-amber-700 text-amber-50'>ADD</button>
+            <button onClick={()=>setcount(count - 1)}  className='p-4 w-[150px] bg-amber-700 text-amber-50'>MINUS</button>
+ 
+               
+        </div>
+        </div>
+
+
+        <div className='mt-5'>
+        <h1 className='text-center text-5xl'>SIMPLE TODO</h1>
+        <div className='flex flex-col gap-2.5 w-full h-full justify-center items-center '>
+    
+          <form onSubmit={addtodo} className='flex flex-col gap-2.5 mt-1.5'>
+                    <input type="text"  value={todo} onChange={(e)=> settodo(e.target.value)} className='p-4 w-[150px] border border-amber-950 bg-yellow-300 text-black font-bold'/>
+                       <button  type='submit' className='p-4 w-[150px] bg-amber-700  text-amber-50'>Add</button>
+                 </form>
+
+                 <ul>
+                    {
+                       input.map((input)=>(
+                        <li>{input}</li>
+                       ))
+                    }
+
+                 </ul>
+        </div>
+        </div>
+    </div>
+  )
+}
+
+export default Usest
+
 // let message = "hello eric you are finding python toturials"
 
 // console.log(message)
