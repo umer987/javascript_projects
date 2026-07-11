@@ -1,5 +1,4 @@
 
-    e.preventDefault();
     const updated = [...input , todo]
     console.log(input)
 }
