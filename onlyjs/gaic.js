@@ -1,5 +1,4 @@
 
-const [count , setcount] = useState(0)
 const [todo,settodo] = useState('')
 const [input ,setinput] = useState([])
 function addtodo(e) {
