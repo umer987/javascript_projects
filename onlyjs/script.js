@@ -1,7 +1,4 @@
 
-
-            playing = self.play_again()
-        
     game = QuizGame()
     game.run()
 
