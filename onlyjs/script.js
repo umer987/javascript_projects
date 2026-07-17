@@ -1,5 +1,4 @@
-time.sleep(0.5)
-              while playing:
+
             self.score = 0
             self.shuffle_questions()
             self.display_welcome()
