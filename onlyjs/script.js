@@ -1,5 +1,4 @@
 
-            self.display_welcome()
     def run(self):
         """Main game loop"""
         playing = True
