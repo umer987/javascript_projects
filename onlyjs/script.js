@@ -1,5 +1,4 @@
 
-            self.score = 0
             self.shuffle_questions()
             self.display_welcome()
     def run(self):
