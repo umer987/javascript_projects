@@ -1,6 +1,5 @@
 
-            print("⚠️  Please enter 'yes' or 'no'.")
-            # Ask to play again
+
             playing = self.play_again()
         
     game = QuizGame()
