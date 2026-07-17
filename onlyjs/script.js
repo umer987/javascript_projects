@@ -1,5 +1,4 @@
 
-            self.shuffle_questions()
             self.display_welcome()
     def run(self):
         """Main game loop"""
