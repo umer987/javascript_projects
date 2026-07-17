@@ -1,7 +1,4 @@
 
-                return True
-            elif choice in ['no', 'n']:
-                return False
             print("⚠️  Please enter 'yes' or 'no'.")
             # Ask to play again
             playing = self.play_again()
