@@ -1,5 +1,5 @@
 
-    def run(self):
+
         """Main game loop"""
         playing = True
     def ask_question(self, q_data, q_num):print("🎯 WELCOME TO THE QUIZ GAME!")
