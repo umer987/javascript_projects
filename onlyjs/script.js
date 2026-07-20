@@ -1,6 +1,4 @@
 
-
-if __name__ == "__main__":
     main()
         print(f"Total Questions: {self.total_questions}")
         print("Type A, B, C, or D to answer")
