@@ -3,11 +3,7 @@
 
       
 
-     
-            },
-                "question": "Which planet is known as the Red Planet?",
-                "options": ["A. Venus", "B. Jupiter", "C. Mars", "D. Saturn"],
-                "answer": "C"
+
             },   {
                 "question": "What is the capital of France?",
                 "options": ["A. London", "B. Paris", "C. Berlin", "D. Madrid"],
