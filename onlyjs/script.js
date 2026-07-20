@@ -3,11 +3,7 @@
 
       
 
-                "answer": "B"
-            },
-                "question": "What is the largest ocean on Earth?",
-                "options": ["A. Atlantic", "B. Indian", "C. Arctic", "D. Pacific"],
-                "answer": "D"
+     
             },
                 "question": "Which planet is known as the Red Planet?",
                 "options": ["A. Venus", "B. Jupiter", "C. Mars", "D. Saturn"],
