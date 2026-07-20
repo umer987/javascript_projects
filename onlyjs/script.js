@@ -1,7 +1,6 @@
 
 
-    def shuffle_questions(self):
-                "question": "What is the chemical symbol for water?",
+
                 "options": ["A. H2O", "B. CO2", "C. NaCl", "D. HCl"],
                 "answer": "A"
             }
