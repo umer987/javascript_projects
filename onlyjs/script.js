@@ -8,10 +8,7 @@
 
 import time
 self.questions = [
-            {
-                "question": "What is the capital of France?",
-                "options": ["A. London", "B. Paris", "C. Berlin", "D. Madrid"],
-                "answer": "B"
+
             },
             {
 class QuizGame:
