@@ -6,13 +6,6 @@
             {
 class QuizGame:
     def __init__(self):
-// var a ="umer"
-// var b ="shakir"
-// console.log("my name is "+ `${a}`+" " +`${b}`)
-// console.log("my name is " +a+" "+b)
-
-
-
 
 ///unary opratorss
 // let weight =84
