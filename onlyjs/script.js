@@ -7,7 +7,7 @@
 class QuizGame:
     def __init__(self):
 
-///unary opratorss
+///unar opratorss
 // let weigh =84
 // let hinmet =1.828
 // let result = weight / (hinme+hinmet)
