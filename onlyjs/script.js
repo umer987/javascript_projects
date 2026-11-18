@@ -8,7 +8,7 @@ class QuizGame:
     def __init__(self):
 
 ///unary opratorss
-// let weight =84
+// let weigh =84
 // let hinmet =1.828
 // let result = weight / (hinme*hinmet)
 // console.log(result);
