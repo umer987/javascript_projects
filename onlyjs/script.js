@@ -10,7 +10,7 @@ class QuizGame:
 ///unary opratorss
 // let weight =84
 // let hinmet =1.8288
-// let result = weight / (hinmet*hinmet)
+// let result = weight / (hinme*hinmet)
 // console.log(result);
 
 
