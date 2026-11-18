@@ -15,7 +15,7 @@ class QuizGame:
 
 
 // const inquirer = require("inquirer");
-// console.log(":::::::::::::::ADDITION CALCULATOR::::::::::::::::")
+// console.log("::::::::::::ADDITION CALCULATOR::::::::::::::::")
 // const input1 = await inquirer.prompt({
 //         name: "num1",
 //         type:  "number",
