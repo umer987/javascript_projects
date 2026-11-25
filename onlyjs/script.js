@@ -11,7 +11,7 @@ class QuizGame:
 // let weigh =84
 // let hinmet =1.828
 // let result = weight / (hinme+hinmet)
-// con
+// c
 
 
 // const inquirer = require("inquirer");
