@@ -9,7 +9,7 @@ class QuizGame:
 
 ///unar oprator
 // let weigh =8
-// let hinmet =1.82
+// let hinmet =1.8
 // let result = weight * (hinme+hinmet)
 // console.log
 
